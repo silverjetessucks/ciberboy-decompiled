@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiberBoy", "CiberBoy_Slayed.csproj", "{BA5AE804-5C5D-471B-AA74-A0B5B59F1EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5AE804-5C5D-471B-AA74-A0B5B59F1EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5AE804-5C5D-471B-AA74-A0B5B59F1EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5AE804-5C5D-471B-AA74-A0B5B59F1EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5AE804-5C5D-471B-AA74-A0B5B59F1EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
